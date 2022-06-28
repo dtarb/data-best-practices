@@ -5,7 +5,7 @@ For overall data sharing and publication guidance, please read the following fir
 
 [Guidance for all CZ Net Data Publication](data_publication_guidance.md)
 
-For guidance on specific data types, please consultt the following best practice guides:
+For guidance on specific data types, please consult the following best practice guides:
 
 1. [Sharing Samples and Sample Metadata](sample_data/registering_samples.md)
 2. [Sharing Data Derived from Samples](sample_data/sample_data.md)
